@@ -15,10 +15,7 @@ except FileNotFoundError:
     pass
 
 print('기다려주세요.')
-# spl = r'spleeter separate -p spleeter:' + \
-#     str(stems)+r'stems -o output '+nsfile_name+'.mp3'
+spl = r'spleeter separate -p spleeter:' + \
+    str(stems)+r'stems -o output '+nsfile_name+'.mp3'
 # 'spleeter separate -p spleeter:2stems -o output my_song.mp3'
-spl = 'spleeter separate -p spleeter:2stems -o output ' + file_name + ".mp3"
-print(spl)
-
 os.system(spl)
