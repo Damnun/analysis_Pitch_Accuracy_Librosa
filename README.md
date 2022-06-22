@@ -9,9 +9,9 @@ Analyze the accuracy of vocal tones between songs using ribrosa.
 Python Librosa, Spleeter, mathplotlib 라이브러리를 활용해 pitch analysis, Graph Diagramming, Voice Seperation 등의 기능을 구현했습니다.
 
 ## 필수 설치 요소
-'''c 
+```
 pip install pydub  
-'''
+```
 ★ ffmpeg 설치 필수 ★
 
 - 만든 사람
