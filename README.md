@@ -27,8 +27,16 @@ pip install pydub
 #### > 확인해 보고 싶은 mp3파일을 src에 넣으면 이를 wav파일(스펙트럼화 시킬 수 있는)로 변환해 줍니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974974-94954cde-1745-442b-befa-6874b84f881d.png)
 
+#### 코드실행 화면
+![image](https://user-images.githubusercontent.com/97078660/175094539-c17731ff-6579-4b49-add6-7d5ecd9b603f.png)
 
-#### > 이를 spleeter를 활용해서 보컬과 mr파일을 분리한 뒤 보컬의 음정을 스펙트럼화 시켜 사용자에게 보여줍니다.
+#### spleeter를 사용해서 음원을 분리하기 전의 주파수 분석 사진입니다.
+![image](https://user-images.githubusercontent.com/97078660/175094786-1a2a1db9-729f-4ba2-a285-aa361e463de6.png)
+
+#### spleeter를 사용해서 음원을 분리한 후의 주파수 분석 사진입니다.
+![image](https://user-images.githubusercontent.com/97078660/175094867-c3549317-a7bd-4d07-bd56-a1c621c1678b.png)
+
+#### > 잡음이 없는 경우의 주파수 분석 사진입니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974328-cb777aca-7722-4848-bd02-9babba09a1ee.png)
 
 
