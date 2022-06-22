@@ -18,10 +18,11 @@ pip install pydub
 ★ ffmpeg 설치 필수 ★
 
 ## 사용시 이미지
-> 확인해 보고 싶은 mp3파일을 src에 넣으면 이를 wav파일(스펙트럼화 시킬 수 있는)로 변환해 줍니다.
+# > 확인해 보고 싶은 mp3파일을 src에 넣으면 이를 wav파일(스펙트럼화 시킬 수 있는)로 변환해 줍니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974974-94954cde-1745-442b-befa-6874b84f881d.png)
 
-> 이를 spleeter를 활용해서 보컬과 mr파일을 분리한 뒤 보컬의 음정을 스펙트럼화 시켜 사용자에게 보여줍니다.
+
+# > 이를 spleeter를 활용해서 보컬과 mr파일을 분리한 뒤 보컬의 음정을 스펙트럼화 시켜 사용자에게 보여줍니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974328-cb777aca-7722-4848-bd02-9babba09a1ee.png)
 
 
