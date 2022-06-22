@@ -9,13 +9,13 @@ Analyze the accuracy of vocal tones between songs using ribrosa.
 Python Librosa, Spleeter, mathplotlib 라이브러리를 활용해 pitch analysis, Graph Diagramming, Voice Seperation 등의 기능을 구현.
 
 ## 오픈소스 활용
-> 바이브레이션 비율 – Zero Crossing Rate 활용 : 음파의 양/음 비율 빈도수
++ 바이브레이션 비율 – Zero Crossing Rate 활용 : 음파의 양/음 비율 빈도수
 + Librosa를 통해 입력받은 주파수를 mathplotlib 그래프나 스펙트럼 그래프로 표시하여 사용자로 하여금 직관적으로 이를 파악할 수 있게 도와줌
 + Spleeter 라이브러리를 통해 노래의 반주와 사용자의 목소리를 분리하여 Librosa에 활용할 계획
 + 파일 저장 및 음원 추출 – pydub, pytube Module 활용
 
 ## 개선사항 및 향후 계획
-> 분리 가짓수의 형태가 두 가지로 한정적임.
++ 분리 가짓수의 형태가 두 가지로 한정적임.
 + 음원의 mr분리를 통해 목소리를 직관적인 형태의 그래프로 추출해냈지만, 두 그래프를 효과적으로 비교하여 그래프화 하는 데에는 시간적인 어려움이 있었음.
 + 주파수 영역에서 드러나는 잡음을 제한하는 연구를 통해 효과적인 비교 그래프 생성을 목적으로 함.
 
