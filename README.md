@@ -36,8 +36,14 @@ pip install pydub
 
 - 만든 사람
 > <a href="https://github.com/Damnun">이재헌
+  ```
   분리된 음원 그래프로 가시화, 전체적인 코드 최적화 및 정리
+  ```
 > <a href="https://github.com/kkkkkk0312">강재영
+  ```
   mp3에서 wav로의 변환, readme 파일 작성
+  ```
 > <a href="https://github.com/korean0106">남효천
+  ```
   음원을 악기 및 목소리로 분리
+  ```
