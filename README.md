@@ -27,9 +27,6 @@ pip install pydub
 #### > 확인해 보고 싶은 mp3파일을 src에 넣으면 이를 wav파일(스펙트럼화 시킬 수 있는)로 변환해 줍니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974974-94954cde-1745-442b-befa-6874b84f881d.png)
 
-#### 코드실행 화면
-![image](https://user-images.githubusercontent.com/97078660/175094539-c17731ff-6579-4b49-add6-7d5ecd9b603f.png)
-
 #### spleeter를 사용해서 음원을 분리하기 전의 주파수 분석 사진입니다.
 ![image](https://user-images.githubusercontent.com/97078660/175095270-2e0143af-1f21-4eb4-888c-786ba9e4de42.png)
 
