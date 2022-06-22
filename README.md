@@ -31,10 +31,10 @@ pip install pydub
 ![image](https://user-images.githubusercontent.com/97078660/175094539-c17731ff-6579-4b49-add6-7d5ecd9b603f.png)
 
 #### spleeter를 사용해서 음원을 분리하기 전의 주파수 분석 사진입니다.
-![image](https://user-images.githubusercontent.com/97078660/175094786-1a2a1db9-729f-4ba2-a285-aa361e463de6.png)
+![image](https://user-images.githubusercontent.com/97078660/175095270-2e0143af-1f21-4eb4-888c-786ba9e4de42.png)
 
 #### spleeter를 사용해서 음원을 분리한 후의 주파수 분석 사진입니다.
-![image](https://user-images.githubusercontent.com/97078660/175094867-c3549317-a7bd-4d07-bd56-a1c621c1678b.png)
+![image](https://user-images.githubusercontent.com/97078660/175095367-c35ffccb-1253-4e80-be63-80dfc413a585.png)
 
 #### > 잡음이 없는 경우의 주파수 분석 사진입니다.
 ![image](https://user-images.githubusercontent.com/97078660/174974328-cb777aca-7722-4848-bd02-9babba09a1ee.png)
